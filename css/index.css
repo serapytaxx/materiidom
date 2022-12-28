@@ -1,0 +1,206 @@
+
+@font-face {
+	font-family: 'Venus Rising';
+	src: local('Venus Rising'),
+		url(/fonts/venus rising rg.ttf);
+}
+
+.z1{
+  margin-left: 40px;
+  font-size: 48px;
+  color: #fcfcfc;
+  font-style: normal;
+  font-family: 'Venus Rising';
+  position: relative;
+  margin-top: -6900px;
+}
+.z2{
+  margin-left: 1130px;
+  font-size: 30px;
+  color: #fcfcfc;
+  font-style: normal;
+  font-family: 'Venus Rising';
+  position: relative;
+  margin-top: 600px;
+}
+.z3{
+  margin-left: 810px;
+  font-size: 30px;
+  color: #fcfcfc;
+  font-style: normal;
+  font-family: 'Venus Rising';
+  position: relative;
+  margin-top: 1350px;
+}
+.z4{
+  margin-left: 1140px;
+  font-size: 30px;
+  color: #fcfcfc;
+  font-style: normal;
+  font-family: 'Venus Rising';
+  position: relative;
+  margin-top: 850px;
+}
+.z5{
+  margin-left: 40px;
+  font-size: 30px;
+  color: #fcfcfc;
+  font-style: normal;
+  font-family: 'Venus Rising';
+  position: relative;
+  margin-top: 780px;
+}
+.z6{
+  margin-left: 40px;
+  font-size: 30px;
+  color: #fcfcfc;
+  font-style: normal;
+  font-family: 'Venus Rising';
+  position: relative;
+  margin-top: 1810px;
+}
+.z7{
+  margin-left: 40px;
+  font-size: 16px;
+  color: #fcfcfc;
+  font-style: normal;
+  font-family: 'Venus Rising';
+  position: relative;
+  margin-top: 1190px;
+}
+.z8{
+  margin-left: 1820px;
+  font-size: 16px;
+  color: #fcfcfc;
+  font-style: normal;
+  font-family: 'Venus Rising';
+  position: relative;
+  margin-top: -18px;
+}
+.graf{
+  position: relative;
+}
+.a1{
+margin-top: 850px;
+margin-left: 530px;
+  animation: sverk 1s infinite;
+    overflow-x: hidden;
+}
+.b2{
+  margin-top: 30px;
+margin-left: 130px;
+animation: sverk 3s infinite;
+  overflow-x: hidden;
+}
+.d3{
+  margin-top: -60px;
+margin-left: 615px;
+animation: sverk 2.5s infinite;
+  overflow-x: hidden;
+}
+.c4{
+margin-left: 970px;
+margin-top: -190px;
+animation: sverk 2s infinite;
+  overflow-x: hidden;
+}
+.f5{
+margin-left: 1340px;
+margin-top: -45px;
+animation: sverk 3.5s infinite;
+  overflow-x: hidden;
+}
+.g6{
+  margin-top: -10px;
+margin-left: 1640px;
+animation: sverk 4s infinite;
+  overflow-x: hidden;
+}
+.s7{
+  margin-top: -85px;
+  margin-left: 285px;
+animation: sverk 1.5s infinite;
+  overflow-x: hidden;
+}
+
+@keyframes sverk {
+  0% {
+      transform:rotate(0deg);
+  }
+  50% {
+      transform:rotate(5deg);
+  }
+  100% {
+      transform:rotate(0deg);
+  }
+}
+.vd{
+margin-top: -1500px;
+  margin-left: 495px;
+  animation: dika 1.5s infinite linear;
+    overflow-x: hidden;
+}
+.dda{
+  margin-left: 400px;
+padding-top: 250px;
+  overflow-x: hidden;
+
+}
+@keyframes dika {
+  0% { opacity: 0.0; }
+  25% { opacity: 1.0; }
+  50% { opacity: 1.1; }
+  75% { opacity: 0.1; }
+  100% { opacity: 0.0; }
+}
+.sever{
+  margin-top: -80px;
+    overflow-x: hidden;
+}
+.svv2{
+  animation: gradient 5s ease infinite;
+    overflow-x: hidden;
+}
+@keyframes gradient {
+  0% { opacity: 0.0; }
+  25% { opacity: 1.0; }
+  50% { opacity: 1.1; }
+  75% { opacity: 0.1; }
+  100% { opacity: 0.0; }
+}
+.vss2{
+  margin-left: -560px;
+margin-top: -1500px;
+  overflow-x: hidden;
+}
+.ogon{
+margin-top: -1050px;
+margin-left: 350px;
+  overflow-x: hidden;
+}
+
+.kamen{
+margin-top: 2000px;
+margin-left: 450px;
+animation: booo 1.5s infinite;
+  overflow-x: hidden;
+}
+@keyframes booo {
+  0% {
+      transform:rotate(0deg);
+  }
+  50% {
+      transform:rotate(360deg);
+  }
+  100% {
+      transform:rotate(0deg);
+  }
+}
+
+.dno{
+  margin-top: 410px;
+  width: 1920px;
+  height: 123px;
+  background-color: #755F82;
+    overflow-x: hidden;
+}
